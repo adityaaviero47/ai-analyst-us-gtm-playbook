@@ -1,0 +1,63 @@
+{
+  "weights": {
+    "warehouse_fit": 0.25,
+    "analyst_bottleneck": 0.25,
+    "needs_self_hosting": 0.2,
+    "organic_reach": 0.15,
+    "sales_speed": 0.15
+  },
+  "ranking": [
+    [
+      "Mid-market B2B SaaS (RevOps and sales ops)",
+      4.0
+    ],
+    [
+      "Financial services and insurance (mid-market)",
+      4.0
+    ],
+    [
+      "E-commerce and DTC retail",
+      3.4
+    ],
+    [
+      "Healthcare providers and payers",
+      3.2
+    ],
+    [
+      "Logistics and supply chain",
+      2.9
+    ]
+  ],
+  "sensitivity_top2": {
+    "self_hosting_weight_0.1": [
+      [
+        "Mid-market B2B SaaS (RevOps and sales ops)",
+        4.25
+      ],
+      [
+        "Financial services and insurance (mid-market)",
+        3.88
+      ]
+    ],
+    "self_hosting_weight_0.2": [
+      [
+        "Mid-market B2B SaaS (RevOps and sales ops)",
+        4.0
+      ],
+      [
+        "Financial services and insurance (mid-market)",
+        4.0
+      ]
+    ],
+    "self_hosting_weight_0.3": [
+      [
+        "Financial services and insurance (mid-market)",
+        4.12
+      ],
+      [
+        "Mid-market B2B SaaS (RevOps and sales ops)",
+        3.75
+      ]
+    ]
+  }
+}

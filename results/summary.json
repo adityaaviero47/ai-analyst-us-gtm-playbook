@@ -1,0 +1,58 @@
+{
+  "queries_non_brand": 15,
+  "genloop_present_non_brand": 0,
+  "genloop_present_brand_query": true,
+  "genloop_own_site_in_brand_query": false,
+  "top_vendors": [
+    [
+      "Querio",
+      6,
+      0.4
+    ],
+    [
+      "Bruin",
+      6,
+      0.4
+    ],
+    [
+      "Fabi",
+      5,
+      0.333
+    ],
+    [
+      "Basedash",
+      5,
+      0.333
+    ],
+    [
+      "Scoop",
+      3,
+      0.2
+    ],
+    [
+      "Actian",
+      3,
+      0.2
+    ]
+  ],
+  "queries_with_a_content_led_startup": 9,
+  "content_led_share": 0.6,
+  "queries_by_intent": {
+    "category": 5,
+    "problem": 1,
+    "competitor": 1,
+    "use-case": 3,
+    "differentiator": 3,
+    "comparison": 1,
+    "proof": 1
+  },
+  "content_led_present_by_intent": {
+    "category": "3 of 5",
+    "problem": "1 of 1",
+    "competitor": "1 of 1",
+    "use-case": "2 of 3",
+    "differentiator": "1 of 3",
+    "comparison": "1 of 1",
+    "proof": "0 of 1"
+  }
+}
