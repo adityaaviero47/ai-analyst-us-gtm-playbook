@@ -26,7 +26,7 @@ for r in non_brand:
     presence.update(seen)
 
 n = len(non_brand)
-table = sorted(((v, c, round(c / n, 3)) for v, c in presence.items()), key=lambda x: -x[1])
+table = sorted(((v, c, round(c / n, 3)) for v, c in presence.items()), key=lambda x: (-x[1], x[0]))
 with open("results/share_of_voice.csv", "w", newline="") as f:
     w = csv.writer(f); w.writerow(["vendor", "queries_present", "share_of_queries"]); w.writerows(table)
 
