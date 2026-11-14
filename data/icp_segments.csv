@@ -1,0 +1,6 @@
+segment,warehouse_fit,analyst_bottleneck,needs_self_hosting,organic_reach,sales_speed,reasoning
+Mid-market B2B SaaS (RevOps and sales ops),5,4,2,5,4,"Data already sits in Snowflake/BigQuery; RevOps teams queue for analysts; active LinkedIn and Slack communities; shorter buying cycles; self-hosting rarely required"
+Financial services and insurance (mid-market),4,5,5,3,2,"Warehouses common; heavy reporting load on small analytics teams; data residency and security push towards self-hosted or air-gapped tools; slower, compliance-led buying"
+Healthcare providers and payers,3,4,5,2,1,"Data often split across EHR and claims systems; strong privacy needs favour self-hosting; long procurement cycles and fewer open communities"
+E-commerce and DTC retail,4,4,1,4,4,"Shopify-to-warehouse stacks common; ops and marketing ask daily questions; fast decisions; cloud tools are acceptable, so self-hosting is not an edge"
+Logistics and supply chain,3,4,2,2,3,"Operational data in ERPs and TMS more than warehouses; real pain in ad hoc questions; smaller online communities"
