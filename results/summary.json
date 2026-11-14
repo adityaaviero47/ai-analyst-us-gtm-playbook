@@ -5,19 +5,14 @@
   "genloop_own_site_in_brand_query": false,
   "top_vendors": [
     [
-      "Querio",
-      6,
-      0.4
-    ],
-    [
       "Bruin",
       6,
       0.4
     ],
     [
-      "Fabi",
-      5,
-      0.333
+      "Querio",
+      6,
+      0.4
     ],
     [
       "Basedash",
@@ -25,12 +20,17 @@
       0.333
     ],
     [
-      "Scoop",
+      "Fabi",
+      5,
+      0.333
+    ],
+    [
+      "Actian",
       3,
       0.2
     ],
     [
-      "Actian",
+      "Databricks",
       3,
       0.2
     ]
